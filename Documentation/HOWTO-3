@@ -1,0 +1,63 @@
+HOWTO 3 of the  Machine Learning Comittee of SIIM. 
+
+Intended Audience:
+Accomplished ML developers who wish to share code with
+SiiM
+
+ Table of Contents
+-------------------------------------
+Chapter 0: Background
+Chapter 1: Enabling your code repo to be used by SiiM
+Chapter 2: Documentation guidelines
+Chapter 3: Going the extra step - linking your code to DOckerhub
+Chapter 4: 
+
+
+Chapter 0
+------------------------------------------
+SiiM's objectives for the Machine Learning Comm. are described in HOWTO-1
+To realize those objective, submitters should strive to make their
+effrots accessable to both newbies and experienced practitionaers
+
+Chapter 1
+-----------------------------------------------------
+At a minimum, contributors should have a github repository for their own code
+that they make public. 
+
+SiiM staff will then use that repo as the source to make a submodule in the 
+  http://github.com/ImagingInformatics/machine-learning 
+
+repository. Submitters will always maintain control over thier own work.
+....
+
+
+
+Chapter 2
+---------------------------------------------
+Submitters should assume that other users are not intimately famliaer with their
+work. Given that, a basic theory of operations for their Docker would be helpful. 
+
+In addition, submitters shoud make clear any hardware (or other) requirements 
+that their DOcker needs to enable other users to assess if they have what is
+needed to run the DOcker. 
+
+Submitters should also point users to any needed image sets to train or run their
+Docker. At present SiiM has very limited avaiklablity of annotated and curated image
+sets
+
+
+
+Chapter 3
+-------------------------------------------
+Finally, if submitters would like to maximize their audience they should
+link their code to a DOckerHub site to prebuild their DOckers for user
+
+
+Chapter 4
+-----------------------------------------
+
+
+
+
+
+
