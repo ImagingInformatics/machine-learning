@@ -1,0 +1,71 @@
+HOWTO 1 of the  Machine Learning Comittee of SIIM. 
+
+Intended Audience:
+People who are brand new to machine learning, and don't
+want to acquire a Ph.D. in computer science just to start
+learning
+
+
+ Table of Contents
+-------------------------------------
+Chapter 0: Background
+Chapter 1: Do you have the required hardware?
+Chapter 2: Getting and installing DOcker
+Chapter 3: Getting an account on DOckerhub
+Chapter 4: Getting a tunrkey Machine Leaning DOcker to run
+Chapter 5: building and launching your DOcker
+
+
+Chapter 0
+------------------------------------------
+SiiM estalished the Machine Learnign COmmotee to accomplish 
+several goals:
+	a) teach concepts to people new to the area
+	b) encourage learning and modifying from existing turnkey appliances
+	c) advance the field with teams of people who are willing to co-develop on reprodcuable platforms
+
+Towwards these ends, the Comm. has settled on the idea of encouraging participants to contribute their 
+code in teh reproducable format known as Dockers
+
+
+Chapter 1
+-----------------------------------------------------
+Since we ar doing machine learning, and most ML platforms require a
+GPU, the first thing to figure out is does your computer have the 
+hardware called out by the Docker author that you intend to use?
+
+For the purpose of this HOWTO, we will assume the user is going to 
+pull down and run the DOcker based on Dr. George Shui's Keras based
+DOcker. 
+
+....
+
+
+
+Chapter 2
+---------------------------------------------
+Again, for the purpose of this HOWTO, we are going to use the 
+Keras DOcker that already has an entry on DOckerhub. So all you
+have to do is have the DOcker run-time engine, and a DOckerhub
+account, to pull down the premade Docker and run it
+
+First, let's install the Docker engine for your PC
+
+	LINKS for WIndows, Mac, Linux installers
+
+
+
+Chapter 3
+-------------------------------------------
+Now let's get an account on DOckerhub
+
+	LINK here
+
+
+Chapter 4
+-----------------------------------------
+
+
+
+
+
