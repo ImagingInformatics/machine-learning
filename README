@@ -10,7 +10,7 @@ that build the Keras deep learning framework on top of TensorFLow. Each
 code contributor is asked to bundle all relevent documentation to their
 Docker in thier commit. 
 
-The submodule DOcumentaion  will be for HOWTO's that are relevent ot the entire
+The Documentaion folder is reserved for HOWTO's relevent to the entire
 project
 
  Documentation Index of HOWTOs
