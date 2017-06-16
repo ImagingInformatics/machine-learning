@@ -8,15 +8,16 @@ code on Dockers to make it easy to contribute, download, run and modify
 Thanks to Dr. George Shih MD for kicking off this effort with his Docker 
 that build the Keras deep learning framework on top of TensorFLow. Each 
 code contributor is asked to bundle all relevent documentation to their
-Docker in thier committ. 
+Docker in thier commit. 
 
 The submodule DOcumentaion  will be for HOWTO's that are relevent ot the entire
 project
 
- Documenation Index of HOWTOs
+ Documentation Index of HOWTOs
 -------------------------------------
 HOWTO 1: Get and run an Existing Docker
 HOWTO 2: Modify Existing DOckers
+HOWTO 3: Guidelines for code submitters
 
 
 
