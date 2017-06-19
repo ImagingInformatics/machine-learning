@@ -8,9 +8,8 @@ SiiM
 -------------------------------------
 Chapter 0: Background
 Chapter 1: Enabling your code repo to be used by SiiM
-Chapter 2: Documentation guidelines
-Chapter 3: Going the extra step - linking your code to DOckerhub
-Chapter 4: 
+Chapter 2: Going the extra step - linking your code to DOckerhub
+Chapter 3: Documentation guidelines
 
 
 Chapter 0
@@ -31,31 +30,40 @@ repository. Submitters will always maintain control over thier own work.
 ....
 
 
-
 Chapter 2
----------------------------------------------
-Submitters should assume that other users are not intimately famliaer with their
-work. Given that, a basic theory of operations for their Docker would be helpful. 
-
-In addition, submitters shoud make clear any hardware (or other) requirements 
-that their DOcker needs to enable other users to assess if they have what is
-needed to run the DOcker. 
-
-Submitters should also point users to any needed image sets to train or run their
-Docker. At present SiiM has very limited avaiklablity of annotated and curated image
-sets
+-------------------------------------------
+If submitters would like to maximize their audience they should
+link their code to a DOckerHub site to prebuild their DOckers for user
 
 
 
 Chapter 3
--------------------------------------------
-Finally, if submitters would like to maximize their audience they should
-link their code to a DOckerHub site to prebuild their DOckers for user
+---------------------------------------------
+Submitters should assume that other users are not intimately famliaer with their
+work. Given that, a consistent template in the  Docker README  would be helpful. We
+suggest that submitters consider the follwoing structure
+
+Docker name:
+Author: email and or URL
+Original Upload date:
 
 
-Chapter 4
------------------------------------------
+Purpose:
+WHat is this Docker for. Is is a premade ML development environmnet? A turnkey
+demo?
 
+Hardware Requirement:
+If your Docker requires a minimum amount of RAM or a base GPU, this would be the
+place to call this out. 
+
+Software Requiremnt:
+Any software expectations beyond those covered in HOWTO-1 (or installed in teh 
+Docker itself) should be called out here
+
+Dataset reccomenddations:
+Submitters should also point users to any needed image sets to train or run their
+Docker. At present SiiM has very limited availablity of annotated and curated image
+sets.
 
 
 
