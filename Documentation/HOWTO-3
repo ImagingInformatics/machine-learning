@@ -9,7 +9,8 @@ SiiM
 Chapter 0: Background
 Chapter 1: Enabling your code repo to be used by SiiM
 Chapter 2: Going the extra step - linking your code to DOckerhub
-Chapter 3: Documentation guidelines
+Chapter 3: Usage Instructions
+Chapter 4: Documentation guidelines
 
 
 Chapter 0
@@ -36,10 +37,16 @@ If submitters would like to maximize their audience they should
 link their code to a DOckerHub site to prebuild their DOckers for user
 
 
+CHapter 3
+-----------------------------------------
+Describe how to set up and run your DOcker, including any run-time
+switches, any open ports the DOcker uses, etc
 
-Chapter 3
+
+
+Chapter 4
 ---------------------------------------------
-Submitters should assume that other users are not intimately famliaer with their
+Submitters should assume that other users are not intimately familiaer with their
 work. Given that, a consistent template in the  Docker README  would be helpful. We
 suggest that submitters consider the follwoing structure
 
