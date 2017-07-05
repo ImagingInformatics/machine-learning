@@ -1,28 +1,34 @@
 # SIIM Machine Learning Docker
 
 Docker name: Keras Tensorflow Python3 Jupyter
+
 Author: George Shih / hello@georgeai.xyz
-Original Upload date: 5/12/2017
+
+Original upload date: 5/12/2017
 
 
 Purpose:
+---
 
 This docker provides a development environment for using Keras, Tensorflow,
 Python3, and Jupyter for use on a desktop or laptop.
 
-Hardware Requirement:
+Hardware Requirements:
+---
 
 Recommend at least 4GB RAM, although more is always better.  Tensorflow is using
 CPU for this Docker
 
 
-Software Requirement:
+Software Requirements:
+--
 
 Please install latest docker from docker.com
 
 Should work with Linux, Windows, and Mac computers (using Intel processors)
 
 Dataset recommendations:
+---
 
 Does not include any datasets, but a sample Jupyter notebook is included
 
