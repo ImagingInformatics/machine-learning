@@ -36,6 +36,7 @@ RUN pip --no-cache-dir install \
 	nltk \
 	textblob \
 	spacy \
+	lesscpy \
         && \
     python3 -m ipykernel.kernelspec
 
@@ -54,10 +55,11 @@ RUN jupyter serverextension enable --py jupyterlab --sys-prefix
 # We just add a little wrapper script.
 COPY run_jupyter.sh /
 
-ENV TENSORFLOW_VERSION 1.1.0
+ENV TENSORFLOW_VERSION 1.2.1
 
 RUN pip --no-cache-dir install \
-	https://storage.googleapis.com/tensorflow/linux/cpu/tensorflow-1.1.0-cp34-cp34m-linux_x86_64.whl
+	 https://storage.googleapis.com/tensorflow/linux/cpu/tensorflow-1.2.1-cp34-cp34m-linux_x86_64.whl
+	#https://storage.googleapis.com/tensorflow/linux/cpu/tensorflow-1.1.0-cp34-cp34m-linux_x86_64.whl
 	#https://storage.googleapis.com/tensorflow/linux/cpu/tensorflow-1.0.0-cp34-cp34m-linux_x86_64.whl
 
 # Something Jupyter suggests to do:

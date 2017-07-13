@@ -10,8 +10,13 @@ Original upload date: 5/12/2017
 Purpose:
 ---
 
-This docker provides a development environment for using Keras, Tensorflow,
-Python3, and Jupyter for use on a desktop or laptop.
+This docker provides a development environment for using Keras, 
+Tensorflow 1.2.1, 
+Python3, 
+Jupyter,
+and
+Jupyterlab (Alpha)
+for use on a desktop or laptop.
 
 Hardware Requirements:
 ---
