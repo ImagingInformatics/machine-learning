@@ -1,23 +1,35 @@
 HOWTO 4 of the  Machine Learning Comittee of SIIM. 
 
 Intended Audience:
-ML enthusiests who desire to share plublically deintentified and curted datasets with the SiiM-MLC
+ML enthusiests who desire to share publically deindentified and curated datasets with the SiiM-MLC
 
  Table of Contents
 -------------------------------------
 Chapter 0: Background
-CHapter 1: listing of datasets
-
+CHapter 1: Guidelines for listing of datasets(a template)
+Chapter 2: Listing
 
 Chapter 0
 -----------------------
-
+In HOWTO-3, DOcker submitters were shown how to dcuments the commits of their work on the SiiM MLC site. Part of those guidelines call out including URLs to datasets that are relevent to using their DOcker. For those who wish to expand beyond that, the collection below is recommended
 
 
 Chapter 1
 -------------
 
+submitter: (who are you)
+Date: (submission date)
+Name of resource: ( who hosts it and what is it called)
+URL: (root URL of the resource)
+Known to work with: (list SiiM-MLC DOckers known to work with it)
+Comments: (what is it's purpose, requirements for access, maturity of curation and tagging)
+
+
+Chapter 2
+-------------------
+
 submitter:
 Date:
 URL:
+Known to work with: 
 Comments:
