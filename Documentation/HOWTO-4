@@ -11,7 +11,7 @@ Chapter 2: Listing
 
 Chapter 0
 -----------------------
-In HOWTO-3, DOcker submitters were shown how to dcuments the commits of their work on the SiiM MLC site. Part of those guidelines call out including URLs to datasets that are relevent to using their DOcker. For those who wish to expand beyond that, the collection below is recommended
+In HOWTO-3, DOcker submitters were shown how to document the commits of their work on the SiiM MLC site. Part of those guidelines call out including URLs to datasets that are relevent to using their DOcker. For those who wish to expand beyond that, the collection below is recommended
 
 
 Chapter 1
@@ -22,7 +22,7 @@ Date: (submission date)
 Name of resource: ( who hosts it and what is it called)
 URL: (root URL of the resource)
 Known to work with: (list SiiM-MLC DOckers known to work with it)
-Comments: (what is it's purpose, requirements for access, maturity of curation and tagging)
+Comments: (what is it's purpose, requirements for access, maturity of curation and tagging  (i.e. low, medium, high))
 
 
 Chapter 2
