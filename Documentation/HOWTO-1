@@ -11,9 +11,8 @@ learning
 Chapter 0: Background
 Chapter 1: Do you have the required hardware?
 Chapter 2: Getting and installing DOcker
-Chapter 3: Getting an account on DOckerhub
-Chapter 4: Getting a tunrkey Machine Leaning DOcker to run
-Chapter 5: building and launching your DOcker
+Chapter 3: Getting a prebuilt DOcker on DOckerhub
+Chapter 4: Getting the Machine Learning DOcker to run
 
 
 Chapter 0
@@ -36,9 +35,11 @@ hardware called out by the Docker author that you intend to use?
 
 For the purpose of this HOWTO, we will assume the user is going to 
 pull down and run the DOcker based on Dr. George Shui's Keras based
-DOcker. 
+DOcker. The link to that (and its requirements) is here
 
-....
+https://github.com/ImagingInformatics/machine-learning/tree/master/docker-keras-tensorflow-python3-jupyter 
+
+From his README file looks like all we need is: 4 GB of RAM, a normal CPU, and a modern OS. Moving along ...
 
 
 
@@ -49,22 +50,25 @@ Keras DOcker that already has an entry on DOckerhub. So all you
 have to do is have the DOcker run-time engine, and a DOckerhub
 account, to pull down the premade Docker and run it
 
-First, let's install the Docker engine for your PC
+First, let's install the Docker engine for your PC. You can get the 
+Docker runtime for your computer here
 
-	LINKS for WIndows, Mac, Linux installers
+	https://www.docker.com/ 
+
+Follow the instructions and install it
 
 
 
 Chapter 3
 -------------------------------------------
-Now let's get an account on DOckerhub
+Now let's go to Dockerhub to grab a copy of the already built Docker
 
-	LINK here
+	https://hub.docker.com/r/georgezero/keras-tensorflow-python3-jupyter
 
 
 Chapter 4
 -----------------------------------------
-
+Once downloaded, follow the instructions in Dr. Shih's README to run it
 
 
 

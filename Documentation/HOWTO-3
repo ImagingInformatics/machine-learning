@@ -17,7 +17,9 @@ Chapter 0
 ------------------------------------------
 SiiM's objectives for the Machine Learning Comm. are described in HOWTO-1
 To realize those objective, submitters should strive to make their
-effrots accessable to both newbies and experienced practitionaers
+efforts accessable to both newbies and experienced practitionaers. Towards that 
+goal we suggest the following guidelines for packaging code and documentation.
+
 
 Chapter 1
 -----------------------------------------------------
@@ -34,7 +36,7 @@ repository. Submitters will always maintain control over thier own work.
 Chapter 2
 -------------------------------------------
 If submitters would like to maximize their audience they should
-link their code to a DOckerHub site to prebuild their DOckers for user
+link their code to a DOckerHub site to prebuild their DOckers for users
 
 
 CHapter 3
@@ -71,6 +73,11 @@ Dataset reccomenddations:
 Submitters should also point users to any needed image sets to train or run their
 Docker. At present SiiM has very limited availablity of annotated and curated image
 sets.
+
+Runtime Instrutions: 
+This is where you would define the DOcker command line syntax as well as any instructions
+to run apps within the Docker
+
 
 
 
