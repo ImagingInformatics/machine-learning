@@ -1,10 +1,12 @@
 IMGNAME = keras-tensorflow-python3-jupyter
-VERSION = 1.2.1 
+VERSION = 1.3.0 
 USER=georgezero
-.PHONY: all build test taglatest  
+.PHONY: all nocache build test taglatest  
 
-all: build test
+all: nocache build test
 
+nocache:
+	@docker build --no-cache -t $(IMGNAME):$(VERSION) --rm . && echo Buildname: $(IMGNAME):$(VERSION)
 build:
 	@docker build -t $(IMGNAME):$(VERSION) --rm . && echo Buildname: $(IMGNAME):$(VERSION)
 test:
