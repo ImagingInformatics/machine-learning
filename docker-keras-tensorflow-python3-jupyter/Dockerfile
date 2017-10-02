@@ -37,6 +37,9 @@ RUN pip --no-cache-dir install \
 	textblob \
 	spacy \
 	lesscpy \
+	git+https://github.com/pydicom/pydicom \ 
+	SimpleITK>=1.0.0 \
+	nibabel >= 2.1.0 \
         && \
     python3 -m ipykernel.kernelspec
 
