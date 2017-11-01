@@ -15,7 +15,7 @@ Tensorflow 1.3.0,
 Python3.4, 
 Jupyter (5.1.0),
 and
-Jupyterlab (Alpha 0.27.0)
+Jupyterlab (Alpha 0.28.0)
 for use on a desktop or laptop.
 
 Hardware Requirements:
@@ -50,7 +50,7 @@ by following the instructions (eg, using xterm):
 ### Jupyter 
 
 ```
-docker run -d -p 8888:8888 -p 6006:6006 -e "PASSWORD=password" -v ~/src/ALL_NOTEBOOKS:/notebooks/ALL_NOTEBOOKS --name jupyter --restart always georgezero/keras-tensorflow-python3-jupyter-pip:latest
+docker run -d -p 8888:8888 -p 6006:6006 -e "PASSWORD=password" -v ~/src/ALL_NOTEBOOKS:/notebooks/ALL_NOTEBOOKS --name jupyter --restart always georgezero/keras-tensorflow-python3-jupyter:latest
 ```
 
 Change `password` to something else
@@ -58,7 +58,7 @@ Change `password` to something else
 ### JupyterLab (Alpha)
 
 ```
-docker run -d -p 8888-8890:8888-8890 -p 6006:6006 -e "PASSWORD=password" -v ~/src/ALL_NOTEBOOKS:/notebooks/ALL_NOTEBOOKS --name jupyterlab --restart always --entrypoint "jupyter" georgezero/keras-tensorflow-python3-jupyter-pip:latest lab
+docker run -d -p 8888-8890:8888-8890 -p 6006:6006 -e "PASSWORD=password" -v ~/src/ALL_NOTEBOOKS:/notebooks/ALL_NOTEBOOKS --name jupyterlab --restart always --entrypoint "jupyter" georgezero/keras-tensorflow-python3-jupyter:latest lab
 ```
 
 Change `password` to something else
