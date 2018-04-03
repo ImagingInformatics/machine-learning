@@ -1,4 +1,4 @@
-Welcome to the git repository of the Machine Learning Comittee of SIIM. 
+ Welcome to the git repository of the Machine Learning Comittee of SIIM. 
 
 Under the machine-learning umbrella, you will find submodules of code
 comitted by individuals who are willing to share their code with SIIM. 
@@ -13,7 +13,7 @@ Docker in thier commit.
 The Documentaion folder is reserved for HOWTO's relevent to the entire
 project
 
- Documentation Index of HOWTOs
+Documentation Index of HOWTOs
 -------------------------------------
 HOWTO 1: Get and run an Existing Docker
 HOWTO 2: Modify Existing DOckers
