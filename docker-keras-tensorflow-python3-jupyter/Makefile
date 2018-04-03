@@ -1,5 +1,5 @@
 IMGNAME = keras-tensorflow-python3-jupyter
-VERSION = 1.3.0 
+VERSION = 1.7.0 
 USER=georgezero
 .PHONY: all nocache build test taglatest  
 
