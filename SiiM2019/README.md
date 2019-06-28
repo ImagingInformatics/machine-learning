@@ -14,7 +14,7 @@ You will need to install the Docker runtime and then a Jupyter enabled Docker. T
 
 Contents:
 --
-This prohject contains 5 notebooks, a folder called "figures" (which is used by notebook xxx) and some extra instructions (e.g. how to get an MD.ai token for pulling data sets)
+This project contains 5 notebooks, a folder called "figures" (which is used by notebook xxx) and some extra instructions (e.g. how to get an MD.ai token for pulling data sets)
 
 Instructions:
 --
