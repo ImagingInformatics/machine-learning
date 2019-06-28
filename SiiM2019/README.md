@@ -14,12 +14,12 @@ You will need to install the Docker runtime and then a Jupyter enabled Docker. T
 
 Contents:
 --
-There are 5 notebooks, a folder called images (which is used by notebook xxx) and some extra instructions (e.g. how to get an MD.ai token for pulling data sets)
+This prohject contains 5 notebooks, a folder called figures (which is used by notebook xxx) and some extra instructions (e.g. how to get an MD.ai token for pulling data sets)
 
 Instructions:
 --
-First, follow the instructions above for installing the DOcker runtime, and then get the Jupyter DOcker running on your computer. Once that is done pull down the Notbooks in this git folder and save them to the ALL_NOTEBOOKS folder you created in step Requirements. 
-Each notebook is commented with the additional information required to run it once it is pulled into Jupyter
+First, follow the instructions above for installing the DOcker runtime and installing the Jupyter DOcker on your computer. Once that is done pull down the Notebooks in this git folder and save them to the ALL_NOTEBOOKS folder you created in step Requirements. 
+Each notebook is commented with the additional information required to run it once it is pulled into Jupyter  (e.g. if it needs an MDai token to fetch data)
 
 
 
