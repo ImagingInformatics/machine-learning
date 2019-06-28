@@ -6,7 +6,7 @@ Original upload date: 28 June 2019
 
 Purpose:
 --
-These are the Jupyter notebooks covered on the Machine Learning 1 session at the Denver meeting. To run them you need Jupyer running on your compter. An easy way to do that is to install a Jupyter DOcker. To make things easier, there is a convenient SIIM docker that has Tensorflow / Keras / Jupyterlab provided.
+These are the Jupyter notebooks covered on the Machine Learning 1 session at the Denver meeting. To run them you need Jupyter running on your computer. An easy way to do that is to install a Jupyter DOcker. To make things easier, there is a convenient SIIM docker that has Tensorflow / Keras / Jupyterlab provided.
 
 Requirements:
 --
