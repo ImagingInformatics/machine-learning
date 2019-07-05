@@ -1,4 +1,15 @@
-FROM python:3.4
+FROM python:latest
+
+# Installing Miniconda
+RUN wget --quiet https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh
+RUN bash Miniconda3-latest-Linux-x86_64.sh -b
+RUN rm Miniconda3-latest-Linux-x86_64.sh
+
+# Set path to conda
+ENV PATH /root/miniconda3/bin:$PATH
+
+# Install keras using conda instead of pip to bypass AVX requirement on older CPUs
+RUN conda install keras
 
 RUN apt-get update && apt-get install -y \
 		libblas-dev \
@@ -14,22 +25,22 @@ RUN apt-get update && apt-get install -y \
         libfreetype6-dev \
         rsync wget curl zip git zsh vim tmux \
 		&& \
-
     apt-get clean && \
     rm -rf /var/lib/apt/lists/*
 
 RUN pip install -U pip \
         setuptools 
 
+# Removed numpy, scipy, keras as already installed using conda		
 RUN pip --no-cache-dir install \
        	ipykernel \
         jupyter \
-        numpy \
+#        numpy \
         matplotlib \
-        scipy \
+#        scipy \
         scikit-image \
         scikit-learn \
-        keras \
+#        keras \
 	xlrd \
 	openpyxl \
 	jupyterlab \
@@ -55,9 +66,10 @@ RUN jupyter serverextension enable --py jupyterlab --sys-prefix
 # We just add a little wrapper script.
 COPY run_jupyter.sh /
 
-ENV TENSORFLOW_VERSION 1.7.0
+ENV TENSORFLOW_VERSION 1.14.0
 
-RUN pip --no-cache-dir install tensorflow
+# Tensorflow already installed using conda
+# RUN pip --no-cache-dir install tensorflow
 	#https://storage.googleapis.com/tensorflow/linux/cpu/tensorflow-1.3.0-cp34-cp34m-linux_x86_64.whl
 	#https://storage.googleapis.com/tensorflow/linux/cpu/tensorflow-1.2.1-cp34-cp34m-linux_x86_64.whl
 	#https://storage.googleapis.com/tensorflow/linux/cpu/tensorflow-1.1.0-cp34-cp34m-linux_x86_64.whl
