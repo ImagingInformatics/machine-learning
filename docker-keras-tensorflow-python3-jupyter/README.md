@@ -10,13 +10,8 @@ Original upload date: 5/12/2017
 Purpose:
 ---
 
-This docker provides a development environment for using Keras (2.1.5), 
-Tensorflow 1.7.0, 
-Python3.4, 
-Jupyter notebook(5.4.1),
-and
-Jupyterlab (0.31.12)
-for use on a desktop or laptop.
+This docker provides a development environment for using the latest Keras, Tensorflow, Python3.x, Jupyter notebook, and
+Jupyterlab for use on a desktop or laptop.
 
 Hardware Requirements:
 ---
@@ -41,11 +36,13 @@ Does not include any datasets, but a sample Jupyter notebook is included
 Instructions
 ---
 
-The source code included allows you to build the docker container, but is not
-required to run the software.  You can use the pre-built docker container 
+The source code included allows you to build the docker container from scratch, to do so clone
+the repository to your local computer and enter "make build" at the command line. 
+However, the above is not required to run the software.  If you are on a Mac or *NIX computer
+you can use the pre-built docker container at 
 (https://hub.docker.com/r/georgezero/keras-tensorflow-python3-jupyter)
-by following the instructions (eg, using xterm):
-
+by following the instructions below from your computer's terminal program (eg, using xterm):
+[Note for windows users: ....]
 
 ### Jupyter 
 
@@ -61,7 +58,15 @@ Change `password` to something else
 docker run -d -p 8888-8890:8888-8890 -p 6006:6006 -e "PASSWORD=password" -v ~/src/ALL_NOTEBOOKS:/notebooks/ALL_NOTEBOOKS --name jupyterlab --restart always --entrypoint "jupyter" georgezero/keras-tensorflow-python3-jupyter:latest lab
 ```
 
-Change `password` to something else
+Change `password` to something else.  After building the Docker via either the above methods, start
+it by typing "./run_jupyter.sh". 
+
+Once started, access the DOcker by pointing your browser (chrome works best) to the IP address of 
+the host machine and append the port number. For example if your DOcker host computer is IP address = 192.168.100.10, 
+then point a browser to
+'''
+http://192.168.100.10:8888
+'''
 
 ### Directories
 
