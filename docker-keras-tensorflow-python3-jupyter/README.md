@@ -40,14 +40,14 @@ The source code included allows you to build the docker container from scratch, 
 the repository to your local computer and enter "make build" at the command line. 
 However, the above is not required to run the software.  If you are on a Mac or *NIX computer
 you can use the pre-built docker container at 
-(https://hub.docker.com/r/georgezero/keras-tensorflow-python3-jupyter)
+(https://cloud.docker.com/repository/docker/sglanger/jupyter_with_keras )
 by following the instructions below from your computer's terminal program (eg, using xterm):
 [Note for windows users: ....]
 
 ### Jupyter 
 
 ```
-docker run -d -p 8888:8888 -p 6006:6006 -e "PASSWORD=password" -v ~/src/ALL_NOTEBOOKS:/notebooks/ALL_NOTEBOOKS --name jupyter --restart always georgezero/keras-tensorflow-python3-jupyter:latest
+docker run -d -p 8888:8888 -p 6006:6006 -e "PASSWORD=password" -v ~/src/ALL_NOTEBOOKS:/notebooks/ALL_NOTEBOOKS --name jupyter --restart always sglanger/jupyter_with_keras
 ```
 
 Change `password` to something else
@@ -55,7 +55,7 @@ Change `password` to something else
 ### JupyterLab (Alpha)
 
 ```
-docker run -d -p 8888-8890:8888-8890 -p 6006:6006 -e "PASSWORD=password" -v ~/src/ALL_NOTEBOOKS:/notebooks/ALL_NOTEBOOKS --name jupyterlab --restart always --entrypoint "jupyter" georgezero/keras-tensorflow-python3-jupyter:latest lab
+docker run -d -p 8888-8890:8888-8890 -p 6006:6006 -e "PASSWORD=password" -v ~/src/ALL_NOTEBOOKS:/notebooks/ALL_NOTEBOOKS --name jupyterlab --restart always --entrypoint "jupyter" sglanger/jupyter_with_keras lab
 ```
 
 Change `password` to something else.  After building the Docker via either the above methods, start
