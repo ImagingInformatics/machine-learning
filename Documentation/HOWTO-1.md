@@ -12,8 +12,7 @@ learning
 1. Background
 1. Do you have the required hardware?
 1. Getting and installing DOcker
-1. Getting a prebuilt DOcker on DOckerhub
-1.  Getting the Machine Learning DOcker to run
+1. Getting and running a prebuilt DOcker from DOckerhub
 
 
 Chapter 1
@@ -64,17 +63,15 @@ More specifically :
 Follow the instructions for your OS and install it
 
 
-
 Chapter 4
 --
-Now let's go to Dockerhub to grab a copy of the already built Docker
+Now that we have the DOcker engine installed, we refer you to the instructions at 
+https://github.com/ImagingInformatics/machine-learning/tree/master/docker-keras-tensorflow-python3-jupyter
 
-	https://hub.docker.com/r/georgezero/keras-tensorflow-python3-jupyter
+to fetch and run your first example of a Jupyter notebook tailored for Machine Learning. enjoy !
 
 
-Chapter 5
------------------------------------------
-Once downloaded, follow the instructions in Dr. Shih's README to run it
+
 
 
 
