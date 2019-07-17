@@ -25,7 +25,8 @@ Software Requirements:
 
 Please install latest docker from docker.com
 
-Should work with Linux, Windows, and Mac computers (using Intel processors)
+Should work with Linux, Windows, and Mac computers (using Intel processors). If you need help with this
+refer to https://github.com/ImagingInformatics/machine-learning/blob/master/Documentation/HOWTO-1.md
 
 Dataset recommendations:
 ---

@@ -10,10 +10,16 @@ These are the Jupyter notebooks covered on the Machine Learning 1 session at the
 
 Requirements:
 --
-You will need to install the Docker runtime and then a Jupyter enabled Docker. The steps for doing that are located here: https://github.com/ImagingInformatics/machine-learning/tree/master/docker-keras-tensorflow-python3-jupyter
+You will need to install the Docker runtime and then a Jupyter enabled Docker. The steps for installing DOcker are here
+https://github.com/ImagingInformatics/machine-learning/blob/master/Documentation/HOWTO-1.md
+
+ANd the steps for installing a Jupyter Notebook are located here: https://github.com/ImagingInformatics/machine-learning/tree/master/docker-keras-tensorflow-python3-jupyter
 
 Contents:
 --
+Now that you have the DOcker runtime and the Jupyter notebook runnning, you can get the content for this course here
+https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/ImagingInformatics/machine-learning/tree/master/SiiM2019
+
 This project contains 5 notebooks, a folder called "figures" (which is used by notebook xxx) and some extra instructions (e.g. how to get an MD.ai token for pulling data sets)
 
 Instructions:
