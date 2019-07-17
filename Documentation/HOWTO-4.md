@@ -26,23 +26,17 @@ Chapter 2: Guidelines
 
 Chapter 3: Listings
 --
-* Name of Resource: NCI's TCIA
-* submitter: SG Langer
-* Date: 8 November 2017
-* URL: http://www.cancerimagingarchive.net/ 
-* Known to work with: ?
-* Comments: A NCI supported collection of public and semi-private DICOM studies organized by cancer types.
+1. Name of Resource: NCI's TCIA
+	1. submitter: SG Langer
+	1. Date: 8 November 2017
+	1. URL: http://www.cancerimagingarchive.net/ 
+	1. Known to work with: ?
+	1. Comments: A NCI supported collection of public and semi-private DICOM studies organized by cancer types.
 
-* Name of Resource: mdAI
-* submitter: SG Langer
-* Date: July 2019
-* URL: https://google.md.ai/hub
-* Known to work with: SiiM Jupyter notebook
-* Comments: Crowd sourced Annotated datasets for chest, abdomen, etc
+1. Name of Resource: mdAI
+	1. submitter: SG Langer
+	1. Date: July 2019
+	1. URL: https://google.md.ai/hub
+	1. Known to work with: SiiM Jupyter notebook
+	1. Comments: Crowd sourced Annotated datasets for chest, abdomen, etc
 
-* Name of resource: ( who hosts it and what is it called)
-* submitter: (who are you)
-* Date: (submission date)
-* URL: (root URL of the resource)
-* Known to work with: (list SiiM-MLC DOckers known to work with it)
-* Comments: (what is it's purpose, requirements for access, maturity of curation and tagging  (i.e. low, medium, high))
