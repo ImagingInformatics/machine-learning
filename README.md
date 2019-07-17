@@ -15,10 +15,11 @@ project
 
 Documentation Index of HOWTOs
 --
-HOWTO 1: Get and run an Existing Docker
-HOWTO 2: Modify Existing DOckers
-HOWTO 3: Guidelines for code submitters
-HOWTO 4: Suggested public data sets for machine learning
+1. HOWTO 1: Get and run an Existing Docker
+1. HOWTO 2: Modify Existing DOckers 
+1. HOWTO 3: Guidelines for code submitters 
+1. HOWTO 4: Suggested public data sets for machine learning 
+
 
 
 
