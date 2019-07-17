@@ -15,10 +15,10 @@ project
 
 Documentation Index of HOWTOs
 --
-1. HOWTO 1: [Get and run an Existing Docker ] (https://github.com/ImagingInformatics/machine-learning/blob/master/Documentation/HOWTO-1 )
-1. HOWTO 2: [Modify Existing DOckers ] (https://github.com/ImagingInformatics/machine-learning/blob/master/Documentation/HOWTO-2)
-1. HOWTO 3: [Guidelines for code submitters ] (https://github.com/ImagingInformatics/machine-learning/blob/master/Documentation/HOWTO-3)
-1. HOWTO 4: [Suggested public data sets for machine learning ] (https://github.com/ImagingInformatics/machine-learning/blob/master/Documentation/HOWTO-4)
+1. HOWTO 1: Get and run an Existing Docker  (https://github.com/ImagingInformatics/machine-learning/blob/master/Documentation/HOWTO-1 )
+1. HOWTO 2: Modify Existing DOckers  (https://github.com/ImagingInformatics/machine-learning/blob/master/Documentation/HOWTO-2)
+1. HOWTO 3: Guidelines for code submitters  (https://github.com/ImagingInformatics/machine-learning/blob/master/Documentation/HOWTO-3)
+1. HOWTO 4: Suggested public data sets for machine learning  (https://github.com/ImagingInformatics/machine-learning/blob/master/Documentation/HOWTO-4)
 
 
 
