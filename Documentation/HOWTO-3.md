@@ -52,31 +52,14 @@ Submitters should assume that other users are not intimately familiar with their
 work. Given that, a consistent template in the  Docker README  would be helpful. We
 suggest that submitters consider the following structure
 
-Docker name:
-Author: email and or URL
-Original Upload date:
-
-
-Purpose:
-WHat is this Docker for. Is is a premade ML development environment? A turnkey
-demo?
-
-Hardware Requirement:
-If your Docker requires a minimum amount of RAM or a base GPU, this would be the
-place to call this out. 
-
-Software Requirement:
-Any software expectations beyond those covered in HOWTO-1 (or installed in teh 
-Docker itself) should be called out here
-
-Dataset recommendation:
-Submitters should also point users to any needed image sets to train or run their
-Docker. At present SiiM has very limited availability of annotated and curated image
-sets.
-
-Runtime Instructions: 
-This is where you would define the DOcker command line syntax as well as any instructions
-to run apps within the Docker
+1. Docker name:
+	1. Author: email and or URL
+	1. Original Upload date:
+	1. Purpose: WHat is this Docker for. Is is a premade ML development environment? A turnkey demo?
+	1. Hardware Requirement: If your Docker requires a minimum amount of RAM or a base GPU, this would be the place to call this out. 
+	1. Software Requirement: Any software expectations beyond those covered in HOWTO-1 (or installed in the  Docker itself) should be called out here
+	1. Dataset recommendation: Submitters should also point users to any needed image sets to train or run their Docker. At present SiiM has very limited availability of annotated and curated image sets.
+	1. Runtime Instructions:  This is where you would define the DOcker command line syntax as well as any instructions to run apps within the Docker
 
 
 
