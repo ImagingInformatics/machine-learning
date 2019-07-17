@@ -24,7 +24,7 @@ This project contains 5 notebooks, a folder called "figures" (which is used by n
 
 Instructions:
 --
-First, follow the instructions under Requirements for installing the DOcker runtime and installing the Jupyter DOcker on your computer. Once that is done pull down the Notebooks in this git folder and save them to the ALL_NOTEBOOKS folder you created in step Requirements. 
+First, follow the instructions under Requirements for installing the DOcker runtime and installing the Jupyter DOcker on your computer. Once that is done pull down the Notebooks in this git folder and save them to the ALL_NOTEBOOKS folder you created in the Requirements section. 
 Each notebook is commented with the additional information required to run it once it is pulled into Jupyter  (e.g. if it needs an MDai token to fetch data)
 
 
