@@ -1,4 +1,4 @@
-HOWTO 1 of the  Machine Learning Comittee of SIIM. 
+# HOWTO 1 of the  Machine Learning Committee of SIIM. 
 
 Intended Audience:
 People who are brand new to machine learning, and don't
@@ -7,29 +7,29 @@ learning
 
 
  Table of Contents
--------------------------------------
-Chapter 0: Background
-Chapter 1: Do you have the required hardware?
-Chapter 2: Getting and installing DOcker
-Chapter 3: Getting a prebuilt DOcker on DOckerhub
-Chapter 4: Getting the Machine Learning DOcker to run
+--
+1. Background
+1. Do you have the required hardware?
+1. Getting and installing DOcker
+1. Getting a prebuilt DOcker on DOckerhub
+1.  Getting the Machine Learning DOcker to run
 
 
 Chapter 0
 ------------------------------------------
-SiiM estalished the Machine Learnign COmmotee to accomplish 
+SiiM established the Machine Learning COmmitee to accomplish 
 several goals:
-	a) teach concepts to people new to the area
-	b) encourage learning and modifying from existing turnkey appliances
-	c) advance the field with teams of people who are willing to co-develop on reprodcuable platforms
+	* each concepts to people new to the area
+	* encourage learning and modifying from existing turnkey appliances
+	*  advance the field with teams of people who are willing to co-develop on reprodcuable platforms
 
-Towwards these ends, the Comm. has settled on the idea of encouraging participants to contribute their 
-code in teh reproducable format known as Dockers
+Towards these ends, the Comm. has settled on the idea of encouraging participants to contribute their 
+code in the reproducible format known as Dockers
 
 
 Chapter 1
 -----------------------------------------------------
-Since we ar doing machine learning, and most ML platforms require a
+Since we are doing machine learning, and most ML platforms require a
 GPU, the first thing to figure out is does your computer have the 
 hardware called out by the Docker author that you intend to use?
 

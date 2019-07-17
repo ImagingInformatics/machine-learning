@@ -1,19 +1,19 @@
-# Welcome to the git repository of the Machine Learning Comittee of SIIM. 
+# Welcome to the git repository of the Machine Learning Committee of SIIM. 
 
-Under the machine-learning umbrella, you will find submodules of code
-comitted by individuals who are willing to share their code with SIIM. 
-By convention, the Commitee is encouraging participants to base their
+Under the machine-learning umbrella, you will find sub modules of code
+committed by individuals who are willing to share their code with SIIM. 
+By convention, the Committee is encouraging participants to base their
 code on Dockers to make it easy to contribute, download, run and modify
 
 Thanks to Dr. George Shih MD for kicking off this effort with his Docker 
 that build the Keras deep learning framework on top of TensorFLow. Each 
-code contributor is asked to bundle all relevent documentation to their
-Docker in thier commit. 
+code contributor is asked to bundle all relevant documentation to their
+Docker in their commit. 
 
-The Documentaion folder is reserved for HOWTO's relevent to the entire
+The Documentation folder is reserved for HOWTO's relevant to the entire
 project
 
-Documentation Index of HOWTOs
+Documentation: Index of HOWTOs
 --
 1. HOWTO 1: Get and run an Existing Docker  (https://github.com/ImagingInformatics/machine-learning/blob/master/Documentation/HOWTO-1 )
 1. HOWTO 2: Modify Existing DOckers  (https://github.com/ImagingInformatics/machine-learning/blob/master/Documentation/HOWTO-2)
