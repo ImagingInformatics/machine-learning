@@ -34,8 +34,8 @@ GPU, the first thing to figure out is does your computer have the
 hardware called out by the Docker author that you intend to use?
 
 For the purpose of this HOWTO, we will assume the user is going to 
-pull down and run the DOcker based on Dr. George Shui's Keras based
-DOcker. The link to that (and its requirements) is here
+pull down and run the DOcker based on Dr. George Shih's Keras based
+Docker. The link to that (and its requirements) is here
 
 https://github.com/ImagingInformatics/machine-learning/tree/master/docker-keras-tensorflow-python3-jupyter 
 
@@ -54,8 +54,8 @@ First, let's install the Docker engine for your PC. You can get the
 Docker runtime for your computer here 	https://www.docker.com/ 
 
 More specifically :
-1. Windows >=10 (https://hub.docker.com/?overlay=onboarding)
-1. Older Windows or Surface (https://docs.docker.com/toolbox/overview/)
+1. Windows 10 Pro and newer (https://hub.docker.com/?overlay=onboarding)
+1. Windows 10 Home or Older Windows (https://docs.docker.com/toolbox/overview/)
 1. MacOS >= 10.12 (https://hub.docker.com/?overlay=onboarding)
 1. Linux: varies by distribution 
 1. iOS or Android: out of scope
