@@ -54,19 +54,19 @@ This will actually get you the entire SiiM-MLC repository, including the file yo
 
 Chapter 3
 --
-Let's modify the source ... The first thing you will likely want is to enable the GPU version of Tensorflow 
+Let's modify the source. The first thing you will likely want is to enable the GPU version of Tensorflow 
 on your computer (if it supports it). The place to do that is the line in the DOckerfile that installs keras. 
 Instead of 
-'''
+```
 RUN conda install keras
-''' 
+``` 
 
 try using
-'''
+```
 RUN conda install keras-gpu
-'''
+```
 
-And save the new DOckerfile. Now rebuild your Jupyter DOcker by tyeping "make build" on the command line.
+And save the new DOckerfile. Now rebuild your Jupyter DOcker by typing "make build" on the command line.
 
 
 Chapter 4
