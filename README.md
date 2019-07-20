@@ -1,14 +1,16 @@
 # Welcome to the git repository of the Machine Learning Committee of SIIM. 
 
 Under the machine-learning umbrella, you will find sub modules of code
-committed by individuals who are willing to share their code with SIIM. 
+committed by individuals who are willing to share their code with SiiM. 
 By convention, the Committee is encouraging participants to base their
-code on Dockers to make it easy to contribute, download, run and modify
+submissions on Juypyter (formerly iPy) notebooks to make it easy to 
+contribute, download, run and modify.
 
-Thanks to Dr. George Shih MD for kicking off this effort with his Docker 
-that build the Keras deep learning framework on top of TensorFLow. Each 
+Of course, notebooks need a runtime platform to run on. Towards that end,
+thanks to Dr. George Shih MD for kicking off this effort with his Docker 
+that builds Jupyter on the  deep learning framework Keras on TensorFLow. Each 
 code contributor is asked to bundle all relevant documentation to their
-Docker in their commit. 
+notebooks in their commit. 
 
 The Documentation folder is reserved for HOWTO's relevant to the entire
 project
