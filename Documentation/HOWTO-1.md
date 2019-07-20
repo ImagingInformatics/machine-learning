@@ -11,20 +11,20 @@ learning
 --
 1. Background
 1. Do you have the required hardware?
-1. Getting and installing DOcker
-1. Getting and running a prebuilt DOcker from DOckerhub
+1. Getting and installing Docker
+1. Getting and running a prebuilt Docker from Dockerhub
 
 
 Chapter 1
 --
 SiiM established the Machine Learning COmmitee to accomplish 
 several goals:
-1. each concepts to people new to the area
+1. teach concepts to people new to the area
 1. encourage learning and modifying from existing turnkey appliances
 1.  advance the field with teams of people who are willing to co-develop on reproducible platforms
 
 Towards these ends, the Comm. has settled on the idea of encouraging participants to contribute their 
-code in the reproducible format known as Dockers
+code in the reproducible format known as Jupyter notebooks
 
 
 Chapter 2
@@ -46,8 +46,8 @@ From his README file looks like all we need is: 4 GB of RAM, a normal CPU, and a
 Chapter 3
 --
 Again, for the purpose of this HOWTO, we are going to use the 
-Keras DOcker that already has an entry on DOckerhub. So all you
-have to do is have the DOcker run-time engine, and a DOckerhub
+Keras on Jupyter Docker that already has an entry on DOckerhub. So all you
+have to do is have the Docker run-time engine, and a Dockerhub
 account, to pull down the premade Docker and run it
 
 First, let's install the Docker engine for your PC. You can get the 
@@ -65,7 +65,7 @@ Follow the instructions for your OS and install it
 
 Chapter 4
 --
-Now that we have the DOcker engine installed, we refer you to the instructions at 
+Now that we have the Docker engine installed, we refer you to the instructions at 
 https://github.com/ImagingInformatics/machine-learning/tree/master/docker-keras-tensorflow-python3-jupyter
 
 to fetch and run your first example of a Jupyter notebook tailored for Machine Learning. enjoy !
