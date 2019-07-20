@@ -38,14 +38,14 @@ Chapter 3
 If submitters would like to maximize their audience they should
 bundle their code (notebook) on a Jupyter Docker  on a DOckerHub 
 account to provde a prebuilt appliance for users. Failing that, 
-submitters should test their notbooks will run on the default 
+submitters should test their notebooks will run on the default 
 Jupyter Docker described in HOWTO-1
 
 
-CHapter 4
+Chapter 4
 --
 Describe how to set up and run your notebook, including any run-time
-switches and open ports beyond what the deafult Jupyter DOcker uses. Also,
+switches and open ports beyond what the default Jupyter DOcker uses. Also,
 include instructions on how to obtain the datasets the notebook uses.
 
 
