@@ -70,7 +70,7 @@ After installing Docker Desktop for Windows, open PowerShell and
 1. Unzip the Machine Learning notebooks you downloaded from github into this folder
 1. Run the “docker run” instruction as indicated above
 
-Caveats: you may find saving files under Windows problematic. Consider setting use_multiprocessing to "False"
+Caveats: you may find saving files under Windows problematic. Consider setting __use_multiprocessing__ to "False"
 
 Once started, access the DOcker by pointing your browser (chrome works best) to the IP address of 
 the host machine and append the port number. For example if your DOcker host computer is IP address = 192.168.100.10, 
