@@ -47,7 +47,7 @@ you can use the pre-built docker container at
 by following the instructions below from your computer's terminal program (eg, using xterm):
 [Note for windows users: ....]
 
-### Jupyter 
+#### Jupyter 
 
 ```
 docker run -d -p 8888:8888 -p 6006:6006 -e "PASSWORD=password" -v ~/src/ALL_NOTEBOOKS:/notebooks/ALL_NOTEBOOKS --name jupyter --restart always sglanger/jupyter_with_keras
@@ -55,7 +55,7 @@ docker run -d -p 8888:8888 -p 6006:6006 -e "PASSWORD=password" -v ~/src/ALL_NOTE
 
 Change `password` to something else
 
-### JupyterLab (Alpha)
+#### JupyterLab (Alpha)
 
 ```
 docker run -d -p 8888-8890:8888-8890 -p 6006:6006 -e "PASSWORD=password" -v ~/src/ALL_NOTEBOOKS:/notebooks/ALL_NOTEBOOKS --name jupyterlab --restart always --entrypoint "jupyter" sglanger/jupyter_with_keras lab
@@ -70,6 +70,7 @@ After installing Docker Desktop for Windows, open PowerShell and
 1. Unzip the Machine Learning notebooks you downloaded from github into this folder
 1. Run the “docker run” instruction as indicated above
 
+Caveats: you may find saving files under Windows problematic. Consider setting use_multiprocessing to "False"
 
 Once started, access the DOcker by pointing your browser (chrome works best) to the IP address of 
 the host machine and append the port number. For example if your DOcker host computer is IP address = 192.168.100.10, 
