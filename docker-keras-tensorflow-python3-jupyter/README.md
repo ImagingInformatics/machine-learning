@@ -39,7 +39,9 @@ Instructions
 
 The source code included allows you to build the docker container from scratch, to do so clone
 the repository to your local computer and enter "make build" at the command line. 
-However, the above is not required to run the software.  If you are on a Mac or *NIX computer
+However, the above is not required to run the software.  
+
+## If you are on a Mac or *NIX computer
 you can use the pre-built docker container at 
 (https://cloud.docker.com/repository/docker/sglanger/jupyter_with_keras )
 by following the instructions below from your computer's terminal program (eg, using xterm):
@@ -61,6 +63,13 @@ docker run -d -p 8888-8890:8888-8890 -p 6006:6006 -e "PASSWORD=password" -v ~/sr
 
 Change `password` to something else.  After building the Docker via either the above methods, start
 it by typing "./run_jupyter.sh". 
+
+## For Windows users
+After installing Docker Desktop for Windows, open PowerShell and
+1. In your personal folder (e.g. C:\Users\{your_username}), type “md src\ALL_NOTEBOOKS” to create the src\ALL_NOTEBOOKS folder
+1. Unzip the Machine Learning notebooks you downloaded from github into this folder
+1. Run the “docker run” instruction as indicated above
+
 
 Once started, access the DOcker by pointing your browser (chrome works best) to the IP address of 
 the host machine and append the port number. For example if your DOcker host computer is IP address = 192.168.100.10, 
