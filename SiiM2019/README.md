@@ -15,6 +15,8 @@ https://github.com/ImagingInformatics/machine-learning/blob/master/Documentation
 
 ANd the steps for installing a Jupyter Notebook are located here: https://github.com/ImagingInformatics/machine-learning/tree/master/docker-keras-tensorflow-python3-jupyter
 
+Once completing the above two tasks make sure to come back to this page. 
+
 Contents:
 --
 Now that you have the DOcker runtime and the Jupyter notebook runnning, you can get the content for this course here
