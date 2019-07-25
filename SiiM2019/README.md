@@ -10,6 +10,17 @@ These are the Jupyter notebooks covered on the Machine Learning 1 session at the
 
 Requirements:
 --
+## Running on Google COLAB
+A very quick way to try out the notebooks on this site is to link them to Google COLAB. To do this you need
+to have a Google account of some type (Gmail works). Then, in your Chrome browser (others likely won't work)
+enter the following
+```
+https://colab.research.google.com/github/ImagingInformatics/machine-learning/blob/master/SiiM2019/xxx 
+```
+where xxx is replaced by "MLcourse_Notebook_1_update.ipynb" or the other notebooks you see on this site
+
+
+## Running locally
 You will need to install the Docker runtime and then a Jupyter enabled Docker. The steps for installing DOcker are here
 https://github.com/ImagingInformatics/machine-learning/blob/master/Documentation/HOWTO-1.md
 
