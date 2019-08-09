@@ -6,7 +6,7 @@ Original upload date: 28 June 2019
 
 Purpose:
 --
-These are the Jupyter notebooks covered on the Machine Learning 1 session at the Denver meeting. To run them you need Jupyter running on your computer. An easy way to do that is to install a Jupyter DOcker. To make things easier, there is a convenient SIIM docker that has Tensorflow / Keras / Jupyterlab provided.
+These are the Jupyter notebooks covered on the Machine Learning 1 session at the Denver SiiM annual meeting. To run they  need to in the Jupyter environment. This can be done on either a remote system or running locally on your computer. The next section shows how. 
 
 Requirements:
 --
@@ -21,12 +21,13 @@ where xxx is replaced by "MLcourse_Notebook_1_update.ipynb" or the other noteboo
 
 
 #### Running locally
-You will need to install the Docker runtime and then a Jupyter enabled Docker. The steps for installing DOcker are here
+To make things easier, SiiM provides a convenient docker that has integrated Tensorflow / Keras / Jupyterlab. To use it you will first need to 
+install the Docker runtime and then a Jupyter enabled Docker. The steps for installing Docker are here
 https://github.com/ImagingInformatics/machine-learning/blob/master/Documentation/HOWTO-1.md
 
-ANd the steps for installing a Jupyter Notebook are located here: https://github.com/ImagingInformatics/machine-learning/tree/master/docker-keras-tensorflow-python3-jupyter
+And the steps for installing a Jupyter enabled Docker are located here: https://github.com/ImagingInformatics/machine-learning/tree/master/docker-keras-tensorflow-python3-jupyter
 
-Once completing the above two tasks make sure to come back to this page. 
+After completing the above two tasks make sure to come back to this page. 
 
 Contents:
 --
