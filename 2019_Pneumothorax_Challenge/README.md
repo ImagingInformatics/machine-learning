@@ -8,7 +8,7 @@ https://www.kaggle.com/c/siim-acr-pneumothorax-segmentation/discussion/108009
 
 https://www.kaggle.com/c/siim-acr-pneumothorax-segmentation/discussion/107981#latest-632045
 
-Also, these are some useful kernels
+Also, these are some useful kernels:
 
 https://www.kaggle.com/jesperdramsch/intro-chest-xray-dicom-viz-u-nets-full-data 
 https://www.kaggle.com/meaninglesslives/unet-plus-plus-with-efficientnet-encoder
