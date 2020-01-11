@@ -14,7 +14,7 @@ In this competition, participants developed a model to classify (and if present,
 
 ## Participants
 
-1,475 teams participated in the challenge, and 352 teams submitted results during the evaluation phase of the competition.
+1,475 teams participated in the challenge, and 352 teams submitted results during the evaluation phase of the competition. This is the distribution of teams across the globe:
 
 ![github-small](https://siim.org/resource/resmgr/mimi19/pxt/participation_map.jpg)
 
@@ -22,24 +22,66 @@ The Top 10 winning teams took home a total of $30,000 in prize money.
 
 [Winning algorithms](https://www.kaggle.com/c/siim-acr-pneumothorax-segmentation/leaderboard) are being open sourced to benefit radiology and improve patient care.
 
+## Learn from the winners
 
+Here you can find the video explanation, the documentation and the code for each of the Top10:
 
+1. [dsmlkz] sneddy
+     - [Video](https://youtu.be/3X5QhEGfmms)
+     - [Documentation](https://www.kaggle.com/c/siim-acr-pneumothorax-segmentation/discussion/107824#latest-620521)
+     - [Code](https://github.com/sneddy/pneumothorax-segmentation)
 
+2. X5
+     - [Video](https://youtu.be/t0r_oQSeOXw)
+     - [Documentation](https://www.kaggle.com/c/siim-acr-pneumothorax-segmentation/discussion/108009#latest-622580)
+     - [Code](https://github.com/yelanlan/Pneumothorax-Segmentation-2nd-place-solution)
+     
+3. Bestfitting
+     - [Video](https://youtu.be/_wQITou8oiw)
+     - [Documentation](https://www.kaggle.com/c/siim-acr-pneumothorax-segmentation/discussion/107981)
+     - [Code](https://github.com/bestfitting/kaggle/tree/master/siim_acr)
 
+4. [ods.ai] amirassov
+     - [Video](https://youtu.be/_wQITou8oiw)
+     - [Documentation](https://www.kaggle.com/c/siim-acr-pneumothorax-segmentation/discussion/107981)
+     - [Code](https://github.com/bestfitting/kaggle/tree/master/siim_acr)
+     
+5. Earhian
+     - [Video](https://youtu.be/_wQITou8oiw)
+     - [Documentation](https://www.kaggle.com/c/siim-acr-pneumothorax-segmentation/discussion/107981)
+     - [Code](https://github.com/bestfitting/kaggle/tree/master/siim_acr)
+     
+6. Xknife
+     - [Video](https://youtu.be/_wQITou8oiw)
+     - [Documentation](https://www.kaggle.com/c/siim-acr-pneumothorax-segmentation/discussion/107981)
+     - [Code](https://github.com/bestfitting/kaggle/tree/master/siim_acr)
+     
+7. See & Eduardo
+     - [Video](https://youtu.be/_wQITou8oiw)
+     - [Documentation](https://www.kaggle.com/c/siim-acr-pneumothorax-segmentation/discussion/107981)
+     - [Code](https://github.com/bestfitting/kaggle/tree/master/siim_acr)
+     
+8. Ian Pan & Felipe Kitamura
+     - [Video](https://youtu.be/_wQITou8oiw)
+     - [Documentation](https://www.kaggle.com/c/siim-acr-pneumothorax-segmentation/discussion/107981)
+     - [Code](https://github.com/bestfitting/kaggle/tree/master/siim_acr)
+     
+9. [ods.ai] Scizzo
+     - [Video](https://youtu.be/_wQITou8oiw)
+     - [Documentation](https://www.kaggle.com/c/siim-acr-pneumothorax-segmentation/discussion/107981)
+     - [Code](https://github.com/bestfitting/kaggle/tree/master/siim_acr)
+     
+10. [ods.ai] Yury & Konstantin
+     - [Video](https://youtu.be/_wQITou8oiw)
+     - [Documentation](https://www.kaggle.com/c/siim-acr-pneumothorax-segmentation/discussion/107981)
+     - [Code](https://github.com/bestfitting/kaggle/tree/master/siim_acr)
+     
+## More interesting stuff
 
+Kaggle competitions are a unique source of knowledge. The information available in the discussions and kernels is invaluable. Find below a tiny portion of the interesting kernels created during this competition:
 
-Here are the links to some of the top-3 winner models:
+#### [This tutorial](https://www.kaggle.com/jesperdramsch/intro-chest-xray-dicom-viz-u-nets-full-data) explains DICOM and how to visualize DICOM using python.
 
-https://www.kaggle.com/c/siim-acr-pneumothorax-segmentation/discussion/107824#latest-650999
+#### [This tutorial](https://www.kaggle.com/meaninglesslives/unet-plus-plus-with-efficientnet-encoder) explains a fancy version of U-Net, which is a popular deep learning algorithm for segmentation of medical images.
 
-https://www.kaggle.com/c/siim-acr-pneumothorax-segmentation/discussion/108009
-
-https://www.kaggle.com/c/siim-acr-pneumothorax-segmentation/discussion/107981#latest-632045
-
-Thi is the link to all gold medals: https://www.kaggle.com/c/siim-acr-pneumothorax-segmentation/discussion/108308#latest-628454
-
-Also, these are some useful kernels:
-
-https://www.kaggle.com/jesperdramsch/intro-chest-xray-dicom-viz-u-nets-full-data 
-https://www.kaggle.com/meaninglesslives/unet-plus-plus-with-efficientnet-encoder
-https://www.kaggle.com/soulmachine/siim-deeplabv3
+#### [This tutorial](https://www.kaggle.com/soulmachine/siim-deeplabv3) shows how to use DeepLabV3, which uses atrous convolution to segment images.
