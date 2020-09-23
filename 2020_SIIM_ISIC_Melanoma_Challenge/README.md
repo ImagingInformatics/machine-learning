@@ -50,7 +50,7 @@ Here you can find the documentation and the code for each of the Top10:
      - [Code]()
      
 7. James Sebastian
-     - [Documentation]()
+     - [Documentation](https://www.kaggle.com/c/siim-isic-melanoma-classification/discussion/175575)
      - [Code]()
      
 8. Charlie
