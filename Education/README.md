@@ -6,7 +6,7 @@ The content is being updated periodically, so stay tunned.
 
 If you want to **contribute with your educational material**, get in contact with **kitamura.felipe@gmail.com**
 
-Each notebook below is intended to teach a different content:
+Notebooks marked with ✔️ are ready to use. Those marked with 🚧 will be realeased soon.
 
 1. [Introduction to Python for Radiologists](https://github.com/kitamura-felipe/machine-learning/blob/master/Education/Intro2Python/Intro_Python_for_Rads.ipynb)✔️
 2. [Reading, Writing, and Visualizing different medical image formats]()🚧
