@@ -8,5 +8,13 @@ If you want to **contribute with your educational material**, get in contact wit
 
 Each notebook below is intended to teach a different content:
 
-1. [Introduction to Python]()
-2. 
+1. [Introduction to Python for Radiologists]()
+2. [Reading, Writing, and Visualizing different medical image formats]()
+3. [DICOM metadata exploration]()
+4. Training Deep Learning models
+   - [Simple Binary Classifier with Keras]()
+   - [Multilabel Image Classification with hybrid time-dependent CNN with Pytorch]()
+   - [Image Segmentation with Keras]()
+   - [Regression model for Bone Age with Pytorch]()
+   - []()
+6. [Preprocessing Pathology WSI]()
