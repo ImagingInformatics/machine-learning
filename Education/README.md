@@ -15,6 +15,6 @@ Each notebook below is intended to teach a different content:
    - [Simple Binary Classifier with Keras]()
    - [Multilabel Image Classification with hybrid time-dependent CNN with Pytorch]()
    - [Image Segmentation with Keras]()
-   - [Regression model for Bone Age with Pytorch]()
+   - [Regression model for Bone Age with Pytorch](https://github.com/kitamura-felipe/machine-learning/blob/master/Education/Regression-Boneage/SIIM_ML_Edct_Scmt_BoneAge_Regression.ipynb)
    - []()
 6. [Preprocessing Pathology WSI]()
