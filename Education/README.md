@@ -8,13 +8,13 @@ If you want to **contribute with your educational material**, get in contact wit
 
 Each notebook below is intended to teach a different content:
 
-1. [Introduction to Python for Radiologists](https://github.com/kitamura-felipe/machine-learning/blob/master/Education/Intro2Python/Intro_Python_for_Rads.ipynb)
+1. [Introduction to Python for Radiologists](https://github.com/kitamura-felipe/machine-learning/blob/master/Education/Intro2Python/Intro_Python_for_Rads.ipynb)✔️
 2. [Reading, Writing, and Visualizing different medical image formats]()🚧
 3. [DICOM metadata exploration]()🚧
 4. Training Deep Learning models
-   - [Simple Binary Classifier with Keras](https://github.com/kitamura-felipe/machine-learning/blob/master/Education/KerasBinaryClassifier/SIIM_Keras_Binary_Classifier.ipynb)
+   - [Simple Binary Classifier with Keras](https://github.com/kitamura-felipe/machine-learning/blob/master/Education/KerasBinaryClassifier/SIIM_Keras_Binary_Classifier.ipynb)✔️
    - [Multilabel Image Classification with hybrid time-dependent CNN with Pytorch]()🚧
    - [Image Segmentation with Keras]()🚧
-   - [Regression model for Bone Age with Pytorch](https://github.com/kitamura-felipe/machine-learning/blob/master/Education/Regression-Boneage/SIIM_ML_Edct_Scmt_BoneAge_Regression.ipynb)
+   - [Regression model for Bone Age with Pytorch](https://github.com/kitamura-felipe/machine-learning/blob/master/Education/Regression-Boneage/SIIM_ML_Edct_Scmt_BoneAge_Regression.ipynb)✔️
    - []()
-6. [Preprocessing Pathology WSI](https://github.com/kitamura-felipe/machine-learning/blob/master/Education/Pathology/Pathology.ipynb)
+6. [Preprocessing Pathology WSI](https://github.com/kitamura-felipe/machine-learning/blob/master/Education/Pathology/Pathology.ipynb)✔️
