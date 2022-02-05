@@ -5,3 +5,8 @@ This repo is intended to provide educational resources in different levels of kn
 The content is being updated periodically, so stay tunned.
 
 If you want to **contribute with your educational material**, get in contact with **kitamura.felipe@gmail.com**
+
+Each notebook below is intended to teach a different content:
+
+1. [Introduction to Python]()
+2. 
