@@ -1,6 +1,6 @@
 ## The SIIM Machine Learning Education Subcommittee 
 
-The v is under the SIIM ML Committee led by Steve Langer and George Shih.
+The SIIM Machine Learning Education Subcommittee is under the SIIM ML Committee led by Steve Langer and George Shih.
 
 This repo is intended to provide educational resources in different levels of knowledge for those interested in improving their ML skills.
 
