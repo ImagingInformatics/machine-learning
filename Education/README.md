@@ -1,6 +1,6 @@
 ## The SIIM Machine Learning Education Subcommittee 
 
-The SIIM ML Education Subcommittee is under the SIIM ML Committee led by Steve Langer and George Shih.
+The SIIM Machine Learning Education Subcommittee is under the SIIM ML Committee led by Steve Langer and George Shih.
 
 This repo is intended to provide educational resources in different levels of knowledge for those interested in improving their ML skills.
 
@@ -20,3 +20,6 @@ Notebooks marked with ✔️ are ready to use. Those marked with 🚧 will be re
    - [Regression model for Bone Age with Pytorch](https://github.com/kitamura-felipe/machine-learning/blob/master/Education/Regression-Boneage/SIIM_ML_Edct_Scmt_BoneAge_Regression.ipynb)✔️
    - []()
 6. [Preprocessing Pathology WSI](https://github.com/kitamura-felipe/machine-learning/blob/master/Education/Pathology/Pathology.ipynb)✔️
+
+
+The SIIM ML Education Subcommittee is also working towards improving reproducible ML research. The subcommitte has developed a rubric to evaluate classification ML models. The [arXiv paper Best Practices and Scoring System on Reviewing A.I. based Medical Imaging Papers: Part 1 Classification](https://arxiv.org/abs/2202.01863) describes the checklist. There is a spreadsheet version of the rubric available for use [here](https://github.com/kitamura-felipe/machine-learning/raw/master/Education/ClassificationScoreRubric.xlsx).
