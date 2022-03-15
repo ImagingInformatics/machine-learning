@@ -23,3 +23,5 @@ Notebooks marked with ✔️ are ready to use. Those marked with 🚧 will be re
 
 
 The SIIM ML Education Subcommittee is also working towards improving reproducible ML research. The subcommitte has developed a rubric to evaluate classification ML models. The [arXiv paper Best Practices and Scoring System on Reviewing A.I. based Medical Imaging Papers: Part 1 Classification](https://arxiv.org/abs/2202.01863) describes the checklist. There is a spreadsheet version of the rubric available for use [here](https://github.com/kitamura-felipe/machine-learning/raw/master/Education/ClassificationScoreRubric.xlsx).
+
+Along the same lines, The [Checklist for Evaluation of Image-Based Artificial Intelligence Reports in Dermatology](https://github.com/kitamura-felipe/machine-learning/blob/master/Education/Daneshjou%202021%20-%20CLEAR%20Derm%20Checklist.pdf) could be useful for those developing/reviewing AI in dermathology. 
