@@ -16,7 +16,7 @@ Notebooks marked with ✔️ are ready to use. Those marked with 🚧 will be re
 4. Training Deep Learning models
    - [Simple Binary Classifier with Keras](https://github.com/kitamura-felipe/machine-learning/blob/master/Education/KerasBinaryClassifier/SIIM_Keras_Binary_Classifier.ipynb)✔️
    - [Multilabel Image Classification with hybrid time-dependent CNN with Pytorch]()🚧
-   - [Image Segmentation with Keras]()🚧
+   - [Image Segmentation with Keras](https://github.com/kitamura-felipe/machine-learning/blob/master/Education/KerasSegmentation/ML_Ed_AutoSeg_001_with_Submitter_FK.ipynb)✔️
    - [Regression model for Bone Age with Pytorch](https://github.com/kitamura-felipe/machine-learning/blob/master/Education/Regression-Boneage/SIIM_ML_Edct_Scmt_BoneAge_Regression.ipynb)✔️
    - []()
 6. [Preprocessing Pathology WSI](https://github.com/kitamura-felipe/machine-learning/blob/master/Education/Pathology/Pathology.ipynb)✔️
