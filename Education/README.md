@@ -19,6 +19,8 @@ Notebooks marked with ✔️ are ready to use. Those marked with 🚧 will be re
    - [Image Segmentation with Keras](https://github.com/kitamura-felipe/machine-learning/blob/master/Education/KerasSegmentation/ML_Ed_AutoSeg_001_with_Submitter_05_june_v1.ipynb)✔️
    - [Regression model for Bone Age with Pytorch](https://github.com/kitamura-felipe/machine-learning/blob/master/Education/Regression-Boneage/SIIM_ML_Edct_Scmt_BoneAge_Regression.ipynb)✔️
    - [Multi Modal Machine Learning with Pytorch](https://github.com/kitamura-felipe/machine-learning/blob/master/Education/MultiModalML/Multimodality_lab_SIIM22_github.ipynb)✔️
+   - [Explaining the Predictions of a Convolutional Neural Network on Head CT Images]()
+   - [Generating Fair Predictions by Post Processing the Predictions of a Machine Learning Classifier Trained on Chest X-Rays]()
    - []()
 6. [Preprocessing Pathology WSI](https://github.com/kitamura-felipe/machine-learning/blob/master/Education/Pathology/Pathology.ipynb)✔️
 
