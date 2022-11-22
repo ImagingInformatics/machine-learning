@@ -6,6 +6,8 @@ This repo is intended to provide educational resources in different levels of kn
 
 The content is being updated periodically, so stay tunned.
 
+You can find [open source datasets from various sources here](https://github.com/kitamura-felipe/machine-learning/blob/master/Education/opensource_datasets.md).
+
 If you want to **contribute with your educational material**, get in contact with **kitamura.felipe@gmail.com**
 
 Notebooks marked with ✔️ are ready to use. Those marked with 🚧 will be realeased soon.
