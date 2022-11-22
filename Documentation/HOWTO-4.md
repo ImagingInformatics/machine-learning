@@ -1,4 +1,4 @@
-# HOWTO 4 of the  Machine Learning Committee of SIIM. 
+# HOWTO 4: Suggested public data sets for machine learning
 
 Intended Audience:
 ML enthusiasts who desire to share publicly deindentified and curated datasets with the SiiM-MLC
