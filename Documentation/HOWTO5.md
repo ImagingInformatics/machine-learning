@@ -1,4 +1,4 @@
-# HOWTO S: Suggested FOSS  tools for AI dataset annotation
+# HOWTO 5: Suggested FOSS  tools for AI dataset annotation
 
 Intended Audience:
 ML enthusiasts who desire to share publicly deindentified and curated datasets with the SiiM-MLC
