@@ -21,6 +21,7 @@ Documentation: Index of HOWTOs
 1. HOWTO 2: Modify Existing DOckers  (https://github.com/ImagingInformatics/machine-learning/blob/master/Documentation/HOWTO-2.md)
 1. HOWTO 3: Guidelines for code submitters  (https://github.com/ImagingInformatics/machine-learning/blob/master/Documentation/HOWTO-3.md)
 1. HOWTO 4: Suggested public data sets for machine learning  (https://github.com/ImagingInformatics/machine-learning/blob/master/Documentation/HOWTO-4.md )
+1. HOWTO 5: Suggested FOSS tools for AI dataset labeling  (https://github.com/ImagingInformatics/machine-learning/blob/master/Documentation/HOWTO-5.md )
 
 
 
