@@ -23,7 +23,7 @@ Notebooks marked with ✔️ are ready to use. Those marked with 🚧 will be re
    - [Multi Modal Machine Learning with Pytorch](https://github.com/kitamura-felipe/machine-learning/blob/master/Education/MultiModalML/Multimodality_lab_SIIM22_github.ipynb)✔️
    - [Explaining the Predictions of a Convolutional Neural Network on Head CT Images](https://github.com/kitamura-felipe/machine-learning/blob/master/Education/XAI/explain.ipynb)✔️
    - [Generating Fair Predictions by Post Processing the Predictions of a Machine Learning Classifier Trained on Chest X-Rays](https://github.com/kitamura-felipe/machine-learning/blob/master/Education/Fairness/fairness_demo.ipynb)✔️
-   - []()
+   - [Using Vision Transformers in Medical Image Analysis](https://github.com/kitamura-felipe/machine-learning/blob/master/Education/ViT/ViT_Educational_Notebook_SIIM_V2.ipynb)✔️
 6. [Preprocessing Pathology WSI](https://github.com/kitamura-felipe/machine-learning/blob/master/Education/Pathology/Pathology.ipynb)✔️
 
 
