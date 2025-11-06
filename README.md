@@ -12,8 +12,8 @@ that builds Jupyter on the  deep learning framework Keras on TensorFLow. Each
 code contributor is asked to bundle all relevant documentation to their
 notebooks in their commit. 
 
-The Documentation folder is reserved for HOWTO's relevant to the entire
-project
+The Machine Learning Commitee has several sub-commitees: Education, Tools and Research, and Industry Liason. Contributions from the first two are in their respective folders. Contributions from third parties can be found in the folder "Non-SiiM Contributions". The Documentation folder is reserved for HOWTO's relevant to the entire
+project.
 
 Documentation: Index of HOWTOs
 --
